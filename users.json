@@ -23,5 +23,11 @@
         "key": "R4sec",
         "expirydate": "22-10-2026",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "8e057ef2bdcb4808",
+        "key": "12345test",
+        "expirydate": "14-10-2026",
+        "Allowoffline": false
     }
 ]
